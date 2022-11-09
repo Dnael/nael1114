@@ -1,10 +1,7 @@
-#Kelompok
-i=("Kelompok Raja Iblis")
-i2=('''
-       - Dimas Adhi Nugroho          15220001     15.1A.01
-       - Alfareza Kamal. S           15220007     15.1A.01
-       - Adhita Nathanael. T         15220030     15.1A.01
-       - Muhammad Hafidz Nurrohman   15220848     15.1A.01''')
+#Isi Nama Kelompok Dan Anggota
+i=("Kelompok ...")
+i2=('''  NAMA     NIM 
+	''')
 print(i.center(50))
 print("_______________________________________________________________")
 print("              Nama                      Nim       Kelas")
